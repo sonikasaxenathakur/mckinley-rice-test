@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="search.css" rel="stylesheet"/>
+</head>
+<body>
+	<container>
+		<button id="search">Search an artist</button>
+	</container>
+	<popup>
+		<popcontainer>
+			<column>
+				<label>Name</label>
+				<input type="text" placeholder="Name">
+			</column>
+			<column>
+				<label>No. of track</label>
+				<input type="number" placeholder="No. of track">
+			</column>
+			<button id="record_search">Search</button>
+		</popcontainer>
+
+		<popcontainer id="jsondata"></popcontainer>
+	</popup>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src="search.js"/></script>
+</html>

@@ -1,0 +1,82 @@
+[
+	{
+		"name" : "sonika",
+		"occupation" : "IT",
+		"age" : "30",
+		"gender" : "female",
+		"food": {
+			"likes" : ["mango", "apple"],
+			"dislikes" : ["bhindi", "karela"]
+		}
+	},
+	{
+		"name" : "monika",
+		"occupation" : "Hospital",
+		"age" : "27",
+		"gender" : "female",
+		"food": {
+			"likes" : ["gauva", "apple"],
+			"dislikes" : ["allo"]
+		}
+	},
+	{
+		"name" : "ashok",
+		"occupation" : "Export",
+		"age" : "66",
+		"gender" : "male",
+		"food": {
+			"likes" : ["papaya", "grape"],
+			"dislikes" : ["kaddu"]
+		}
+	},
+	{
+		"name" : "ajay laxmi",
+		"occupation" : "Housewife",
+		"age" : "60",
+		"gender" : "female",
+		"food": {
+			"likes" : ["mango", "banana"],
+			"dislikes" : ["lobia"]
+		}
+	},
+	{
+		"name" : "sonika",
+		"occupation" : "ITS",
+		"age" : "30",
+		"gender" : "female",
+		"food": {
+			"likes" : ["mango", "apple"],
+			"dislikes" : ["bhindi", "karela"]
+		}
+	},
+	{
+		"name" : "monika",
+		"occupation" : "Hospital",
+		"age" : "27",
+		"gender" : "female",
+		"food": {
+			"likes" : ["gauva", "apple"],
+			"dislikes" : ["allo"]
+		}
+	},
+	{
+		"name" : "ashok",
+		"occupation" : "Export",
+		"age" : "66",
+		"gender" : "male",
+		"food": {
+			"likes" : ["papaya", "grape"],
+			"dislikes" : ["kaddu"]
+		}
+	},
+	{
+		"name" : "ajay laxmi",
+		"occupation" : "Housewife",
+		"age" : "60",
+		"gender" : "female",
+		"food": {
+			"likes" : ["mango", "banana"],
+			"dislikes" : ["lobia"]
+		}
+	}
+]
